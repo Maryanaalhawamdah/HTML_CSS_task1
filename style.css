@@ -1,5 +1,11 @@
-table,th,td,tr{
+table{
     border: 1px dotted black;
+    
+}
+th,td,tr{
+    border: 1px dotted black;
+    
     padding: 10px;
+    
 }
 
